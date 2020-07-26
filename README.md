@@ -7,7 +7,7 @@ How to Run this:
 There's a few ways to follow along:
 Clone this repo to your local machine and set up a new remote repository
 
-*Dependencies
+*Dependencies:-
  Flask
 
 
