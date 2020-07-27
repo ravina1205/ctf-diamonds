@@ -10,7 +10,9 @@ There's a few ways to follow along:
 3. Run in any browser with the url "http://127.0.0.1:5000/" .
 
 ### Dependencies:-
- * Flask
- * python 2 or Python 3
+ * Flask.
+ * python 2 or Python 3.
+ * HxD: hex editor.
+ * Wireshark.
 
 
