@@ -2,7 +2,7 @@ from tkinter import *
 
 root = Tk()
 
-username = "punam madam" #that's the given username
+username = "punam" #that's the given username
 password = "12345" #that's the given password
 
 #username entry
