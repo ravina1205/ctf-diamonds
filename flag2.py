@@ -12,7 +12,7 @@ def trylogin():
     if search == search_entry.get():
         print("alert(vcgrdkajdvnciccndiancpdunsancmckdh)")
     else:
-        print("Wrong")
+        print("Wrong way..!!")
 
 
 button = Button(root, text="check", command = trylogin)
